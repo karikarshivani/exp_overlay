@@ -4,4 +4,4 @@ summary: "MS SQL 2017 Overlay"
 
 depends:
   - name: sql_baseline_name
-    path: ../sql_baseline_repo
+    url: https://github.com/karikarshivani/exp_baseline/archive/main.tar.gz
