@@ -1,0 +1,7 @@
+name: sql_overlay_name
+title: sql_overlay_title
+summary: "MS SQL 2017 Overlay"
+
+depends:
+  - name: sql_baseline_name
+    path: ../sql_baseline_repo
